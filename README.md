@@ -1,4 +1,4 @@
-PROJECT NAME -: Forest Fire Data Analysis.
+# PROJECT NAME -: Forest Fire Data Analysis.
 
 * Reason to Choose these Project: To find out the state in which fire is in large number to find out the month in which fire occured more to find out the monthly analysis of fire to predict the fires in upcoming year.
 
